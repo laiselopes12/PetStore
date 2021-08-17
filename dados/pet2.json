@@ -1,0 +1,18 @@
+{
+  "id": 199812053,
+  "category": {
+    "id": 1,
+    "name": "dog"
+  },
+  "name": "Myke",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 2021,
+      "name": "sta"
+    }
+  ],
+  "status": "sold"
+}
